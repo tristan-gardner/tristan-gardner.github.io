@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on Tristan Gardner</title>
+    <link>https://example.com/resume/</link>
+    <description>Recent content in Resumes on Tristan Gardner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 22 Jan 2018 11:01:18 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://example.com/resume/resume/</link>
+      <pubDate>Mon, 22 Jan 2018 11:01:18 -0500</pubDate>
+      
+      <guid>https://example.com/resume/resume/</guid>
+      <description>EDUCATION AND HONORS
+Colgate University, Bachelor of Arts, Hamilton, NY
+Major: Computer Science, Cumulative GPA 3.43 /4.00
+Dean&amp;rsquo;s Award for Academic Excellence (Fall 2015, Spring 2016, Fall 2016)
+WORK EXPERIENCE
+Software Engineer Intern, Upraise Marketing, San Francisco, CA May 2019 Summer 2017 • Wrote a Python Twitter scraping tool to create a list of relevant accounts based on user search input to increase a client company&amp;rsquo;s social media presence • Led meetings to receive feedback and better tailor the Twitter tool to the account managers needs • Conducted preliminary research on cybersecurity forums and webpages to provide account managers with leads and contact information to follow up with</description>
+    </item>
+    
+  </channel>
+</rss>
